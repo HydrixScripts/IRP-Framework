@@ -1,3 +1,5 @@
+---MAKE SURE TO NAME DB inertiarp----
+
 -- Dumping structure for table fivem-clarity.ballots_votes
 CREATE TABLE IF NOT EXISTS `ballots_votes` (
   `ballot_id` int(11) NOT NULL DEFAULT 0,
